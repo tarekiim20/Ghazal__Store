@@ -1,0 +1,83 @@
+.bg1 {
+  background-color: #FED9ED;
+}
+.bg2{
+  background-color: #E7BCDE;
+}
+
+.fs-2 {
+  color: #67729D;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.nav {
+  color: #67729D;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #E7BCDE;
+  background-color: #67729D;
+}
+
+.nav-link {
+  color: #67729D;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+.lead {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+
+.btn-success {
+  font-family: 'Playfair Display', serif;
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 4rem;
+  font-family: 'Playfair Display', serif;
+  color: #BB9CC0;
+}
+
+
+.card-text {
+  font-size: 2rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #67729D;
+  font-weight: bold;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: .75rem;
+}
+
+.text-bg-primary {
+  background-color: #FED9ED;
+}
+
+h3, .text-body-emphasis {
+  color: #67729D;
+  font-size: 2rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: bolder;
+}
+
+
+.fp {
+  color: #67729D;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+}
